@@ -157,7 +157,7 @@ GET  /api/wind-field         # 获取风场数据
 
 ## 📝 更新日志
 
-### [0.1.0] - 2024-12-22
+### [0.1.0] - 2025-06-01
 - 🎉 项目初始化
 - ✨ 实现基础3D场景
 - ✨ 添加飞行路径模拟
@@ -171,8 +171,8 @@ GET  /api/wind-field         # 获取风场数据
 
 ## 📞 联系方式
 
-- 项目维护者：[您的名字]
-- Email：your.email@example.com
+- 项目维护者：[Chris Guo]
+- Email：
 - Issues：[GitHub Issues](https://github.com/yourusername/urban-noise-monitoring-3d/issues)
 
 ## 📄 许可证
